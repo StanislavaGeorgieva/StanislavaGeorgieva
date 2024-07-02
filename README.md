@@ -1,6 +1,6 @@
 👋 Hi, I’m @StanislavaGeorgieva
 - 👀 I’m interested in dev tools 
-- 🌱 I’m currently learning JS , React , CSS 
+- 🌱 I’m currently learning JS , React , CSS , HTML 
 
 
 <!---
